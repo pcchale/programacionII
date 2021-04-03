@@ -16,6 +16,7 @@ type
 
 var
   Form1: TForm1;
+  mariano: string;
 
 implementation
 
